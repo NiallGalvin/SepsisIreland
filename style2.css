@@ -1,37 +1,43 @@
-/*img{*/
-	/*height: auto; */
-	/*width: 1em;	*/
-/*}*/
+img{
+	padding-right:10%;
+    padding-left: 10%;
+}
 .responsive {
 	width: 100%;
 	height: auto;
 	padding: 20px
 }
+
 h1{
+    font-size: 10vw;
 	font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif; 
 	color:#6d6e70; 
 	text-align:center;
 	padding: 20px;
 }
 h2{
+    font-size: 7vw;
 	font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif; 
 	color:#6d6e70; 
 	text-align:center;
 	padding: 20px;
 }
 h3{
+    font-size: 6vw;
 	font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif; 
 	color:#6d6e70; 
 	text-align:center;
 	padding: 20px;
 }
 h4{
+    font-size: 5vw;
 	font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif; 
 	color:#6d6e70; 
 	text-align:center;
 	padding: 20px;
 }
 h5{
+    font-size: 4vw;
 	font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif; 
 	color:#6d6e70; 
 	text-align:center; 
@@ -55,6 +61,7 @@ ul{
 body{
 	background-color: #ffff00;
 	color: white;
+    align-content: center;
 }
 li {
 	/*float: left;*/
