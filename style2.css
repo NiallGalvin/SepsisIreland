@@ -76,6 +76,13 @@ li a, .dropbtn{
 li a:hover, .dropdown:hover .dropbtn{
 	background-color: #ff3f00;
 }
+.imgBtn{
+    width: 100%;
+    height: auto;
+}
+
+
+
 li.dropdown{
 	display: inline-block;}
 .dropdown-content{
