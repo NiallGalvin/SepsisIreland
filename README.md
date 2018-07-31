@@ -1,2 +1,0 @@
-# SepsisIreland
-Sepsis Alert Website
