@@ -1,0 +1,550 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="83ad0ccf-9db1-4610-a3dd-fbeb3a18c209" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Adult ED Sepsis Management Algorithm.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Both Preg Non-preg Fin 0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Both Preg Non-preg Fin 1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Both Preg Non-preg Fin 2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Both Preg Non-preg Fin 3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Both Preg Non-preg Fin 4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Both Preg Non-preg Fin 5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Both Preg Non-preg Fin 6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Both Preg Non-preg Fin 7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Both Preg Non-preg Fin 8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Combined Adult SEPSIS page 1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Combined Adult SEPSIS page 2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/ED_cat_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/ED_cat_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/ED_cat_3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Fluid resuscition algorithm.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Maternal Sepsis 3-page-001.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Maternal Sepsis 3-page-002.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Maternal Sepsis Management Algorithim GUH[2880]-page-001.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Maternal Sepsis Management Algorithim GUH[2880]-page-002.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Maternal Sepsis Management Algorithm-page-001.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Maternal_cat_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Maternal_cat_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Maternal_cat_3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Maternal_cat_4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/SEPSIS-LOGO NEGATIVE BANNER.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/SEPSIS-LOGO POSITIVE BANNER.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/SEPSIS-LOGO.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Sepsis Ireland 1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Sepsis Ireland 2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Sepsis Ireland 3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Sepsis Ireland 4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Sepsis Ireland.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/adults 01.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/adults 02.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/adults 03.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/adults non mat.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/both 01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/both 02.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/caduceus-sepsis 1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/caduceus-sepsis 2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/caduceus-sepsis 3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/doctor-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/doctor-2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/doctor-3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/doctor-4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/doctor-5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/doctor-6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/doctor-bust 01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/doctor-bust 02.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/doctor-bust 03.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/doctor-bust 04.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/doctor-family.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/maternity patient.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/non preg 01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/non preg 02.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/non-prag_cat_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/non-prag_cat_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/non-prag_cat_3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/non-prag_cat_4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/paramedic 01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/paramedic 02.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/paramedic 03.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/preg 01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/preg 02.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/sepsis-logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/sepsis-logo.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/yinyang 01.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/yinyang 02.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/yinyang 03.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/page4.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/page5.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/style2.css" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="script.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../SepsisEire/script.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1003">
+              <caret line="59" column="13" selection-start-line="39" selection-start-column="3" selection-end-line="59" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="style2.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../SepsisEire/style2.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1071">
+              <caret line="63" column="4" selection-start-line="63" selection-start-column="4" selection-end-line="63" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="about.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../SepsisEire/about.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="13" column="17" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../SepsisEire/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="18" column="12" selection-start-line="18" selection-start-column="12" selection-end-line="18" selection-end-column="12" />
+              <folding>
+                <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#div#3;n#div#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#div#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#div#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#div#0;n#div#0;n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="page4.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../SepsisEire/page4.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="425">
+              <caret line="25" column="89" selection-start-line="25" selection-start-column="60" selection-end-line="25" selection-end-column="89" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="page5.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../SepsisEire/page5.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="374">
+              <caret line="22" column="6" selection-start-line="22" selection-start-column="6" selection-end-line="22" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/images/script.js" />
+        <option value="$PROJECT_DIR$/script.js" />
+        <option value="$PROJECT_DIR$/newstyle.html" />
+        <option value="$PROJECT_DIR$/page4.html" />
+        <option value="$PROJECT_DIR$/page5.html" />
+        <option value="$PROJECT_DIR$/style2.css" />
+        <option value="$PROJECT_DIR$/about.html" />
+        <option value="$PROJECT_DIR$/index.html" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-7" />
+    <option name="width" value="697" />
+    <option name="height" value="775" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="sireland" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sireland" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$" />
+    <property name="node.js.detected.package.prettier" value="true" />
+    <property name="node.js.path.for.package.prettier" value="project" />
+    <property name="node.js.selected.package.prettier" value="" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\calse\WebstormProjects\sepsisireland\sireland\images" />
+      <recent name="C:\Users\calse\WebstormProjects\sepsisireland\sireland" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\calse\WebstormProjects\sepsisireland\sireland" />
+      <recent name="C:\Users\calse\WebstormProjects\sepsisireland\sireland\images" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="83ad0ccf-9db1-4610-a3dd-fbeb3a18c209" name="Default" comment="" />
+      <created>1529573041600</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1529573041600</updated>
+      <workItem from="1529573043115" duration="24759000" />
+      <workItem from="1530018003473" duration="3563000" />
+      <workItem from="1530028619356" duration="604000" />
+    </task>
+    <task id="LOCAL-00001" summary="clean up and added content">
+      <created>1529587198650</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1529587198650</updated>
+    </task>
+    <task id="LOCAL-00002" summary="clean up and added content">
+      <created>1529587328979</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1529587328979</updated>
+    </task>
+    <task id="LOCAL-00003" summary="clean up and added content">
+      <created>1529587674688</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1529587674688</updated>
+    </task>
+    <task id="LOCAL-00004" summary="clean up and added content">
+      <created>1529598578472</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1529598578472</updated>
+    </task>
+    <task id="LOCAL-00005" summary="clean up and added content">
+      <created>1529606926125</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1529606926125</updated>
+    </task>
+    <task id="LOCAL-00006" summary="clean up and added content">
+      <created>1530021554853</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1530021554853</updated>
+    </task>
+    <task id="LOCAL-00007" summary="fin">
+      <created>1530028894146</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1530028894146</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="28926000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="0" width="697" height="775" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.36710718" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50220263" side_tool="true" visible="true" weight="0.33333334" />
+      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49779737" visible="true" weight="0.33333334" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="clean up and added content" />
+    <MESSAGE value="fin" />
+    <option name="LAST_COMMIT_MESSAGE" value="fin" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../SepsisEire/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1003">
+          <caret line="59" column="13" selection-start-line="39" selection-start-column="3" selection-end-line="59" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../SepsisEire/style2.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1071">
+          <caret line="63" column="4" lean-forward="true" selection-start-line="63" selection-start-column="4" selection-end-line="63" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../SepsisEire/about.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="17" lean-forward="true" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../SepsisEire/page4.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" column="89" selection-start-line="25" selection-start-column="60" selection-end-line="25" selection-end-column="89" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../SepsisEire/page5.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="6" selection-start-line="22" selection-start-column="6" selection-end-line="22" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../SepsisEire/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="12" lean-forward="true" selection-start-line="18" selection-start-column="12" selection-end-line="18" selection-end-column="12" />
+          <folding>
+            <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#3;n#div#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#0;n#div#0;n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../SepsisEire/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1003">
+          <caret line="59" column="13" selection-start-line="39" selection-start-column="3" selection-end-line="59" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../SepsisEire/style2.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1343">
+          <caret line="79" column="16" selection-start-line="79" selection-start-column="16" selection-end-line="79" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../SepsisEire/page4.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" column="89" selection-start-line="25" selection-start-column="60" selection-end-line="25" selection-end-column="89" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../SepsisEire/page5.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="6" lean-forward="true" selection-start-line="22" selection-start-column="6" selection-end-line="22" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../SepsisEire/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3655">
+          <caret line="215" column="111" selection-start-line="215" selection-start-column="111" selection-end-line="215" selection-end-column="111" />
+          <folding>
+            <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#3;n#div#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#0;n#div#0;n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index" />
+    <entry file="file://$PROJECT_DIR$/../SepsisEire/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1003">
+          <caret line="59" column="13" selection-start-line="39" selection-start-column="3" selection-end-line="59" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../SepsisEire/style2.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1071">
+          <caret line="63" column="4" selection-start-line="63" selection-start-column="4" selection-end-line="63" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../SepsisEire/about.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="17" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../SepsisEire/page5.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="6" selection-start-line="22" selection-start-column="6" selection-end-line="22" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../SepsisEire/page4.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" column="89" selection-start-line="25" selection-start-column="60" selection-end-line="25" selection-end-column="89" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../SepsisEire/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="12" selection-start-line="18" selection-start-column="12" selection-end-line="18" selection-end-column="12" />
+          <folding>
+            <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#3;n#div#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#0;n#div#0;n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
